@@ -3,3 +3,4 @@ New line
 Hello, Git!
 New line
 Test line
+Hello, git!
